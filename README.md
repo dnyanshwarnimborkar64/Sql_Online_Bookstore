@@ -1,4 +1,4 @@
-# Online Bookstore Database Project
+# Online Bookstore Analysis SQL Project
 
 ## Project Description
 
