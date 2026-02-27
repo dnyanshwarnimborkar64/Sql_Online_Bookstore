@@ -13,3 +13,13 @@
 #### Data Source: CSV files
 
 #### Tools: pgAdmin / psql
+
+## Database Schema Overview
+
+#### The database consists of the following tables:
+
+#### Books – Book details such as title, author, category, price, and stock
+
+#### Customers – Customer information and contact details
+
+#### Orders – Purchase records with order date and total amount
