@@ -1,1 +1,1 @@
-# Sql_Online_Bookstore
+# 📚 Online Bookstore Database Project
