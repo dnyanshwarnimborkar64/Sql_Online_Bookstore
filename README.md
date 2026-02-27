@@ -23,3 +23,18 @@
 #### Customers – Customer information and contact details
 
 #### Orders – Purchase records with order date and total amount
+
+
+## Key SQL Operations Performed
+
+#### CREATE, INSERT, UPDATE, DELETE (CRUD operations)
+
+#### JOINs (INNER, LEFT)
+
+#### Aggregate functions (SUM, COUNT, AVG)
+
+#### GROUP BY and HAVING clauses
+
+#### Data filtering and sorting
+
+#### Business-oriented analytical queries
